@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=console.log(%22Hello%2C+World!%22);print(%22Hello%2C+World!%22);printf(%22Hello%2C+World!%22);puts+%22Hello%2C+World!%22" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <!-- IDE & Editors -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
