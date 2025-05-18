@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=console.log(%22Hello%2C+World!%22);print(%22Hello%2C+World!%22);printf(%22Hello%2C+World!%22);puts+%22Hello%2C+World!%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=println(%22Hello%2C+World!%22);echo+%22Hello%2C+World!%22" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <!-- IDE & Editors -->
